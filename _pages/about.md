@@ -8,26 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoc ([Shuimu Tsinghua Scholar](https://postdoctor.tsinghua.edu.cn/thu/index.htm), 水木学者) at [Institute for Advanced Study (IAS), Tsinghua University](https://www.ias.tsinghua.edu.cn/) hosted by [Prof. Xiaoyun Wang](https://www.ias.tsinghua.edu.cn/en/info/1059/1173.htm) (IACR fellow). 
+I am am Fourth year undergraduate student at [School of Cyber Science and Technology, ShanDong University.](http://cst.qd.sdu.edu.cn
+)
 
-## Research Interest
-- Trustworthy Machine Learning
-- Secure Multi-party Computation
-- Lightweight Cipher Design
+
 
 ## Education
 
-- Tsinghua University, Beijing, China (08.2017-06.2023) \
-  <i>Ph.D. in Mathematics at [Institute for Advanced Study](https://www.ias.tsinghua.edu.cn/)</i> \
-  Advisor: [Prof. Xiaoyun Wang](https://www.ias.tsinghua.edu.cn/en/info/1059/1173.htm)
-
-- CISPA Helmholtz Center for Information Security, Saarbrücken, Germany (08.2021 - 01.2023) \
-  <i>Visiting Ph.D. student</i>  \
-  Advisor: [Prof. Yang Zhang](https://yangzhangalmo.github.io/)
-
-- Tsinghua University, Beijing, China (08.2013-07.2017) \
-  <i>B.Eng. in [Electronic Engineering](https://www.ee.tsinghua.edu.cn/)</i> \
-  Advisor: [Prof. Yong Ren](http://web.ee.tsinghua.edu.cn/renyong/en/index.htm)
+- ShanDong University, Tsingtao, China (09.2020-06.2024) \
+  <i>B.Eng. in [Information Security](http://www.sdu.edu.cn)</i> 
 
 
 ## News (M-D-Y)
