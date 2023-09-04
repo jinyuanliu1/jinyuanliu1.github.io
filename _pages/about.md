@@ -14,7 +14,6 @@ I am Fourth year undergraduate student at <a href="https://cst.qd.sdu.cn/">Schoo
 
 <h2>Contact</h2>
 <ul>
-<!--<li> Address: Room 401, Science Building, Tsinghua University, Beijing 100084, China-->
 <li> E-mail: jinyuanliu1206 AT gmail.com
 </ul>
 
