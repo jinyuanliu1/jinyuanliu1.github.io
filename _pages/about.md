@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am Fourth year undergraduate student at [School of Cyber Science and Technology, ShanDong University.](http://cst.qd.sdu.edu.cn
-)
+) To learn more about me, click CV to know more.
 
 ## Contact
 E-mail: jinyuanliu1206 AT gmail.com
