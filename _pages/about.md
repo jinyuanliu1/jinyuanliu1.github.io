@@ -8,23 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-
+<!-- 这是一个注释 -->
 I am Fourth year undergraduate student at <a href="https://cst.qd.sdu.cn/">School of Cyber Science and Technology, ShanDong University</a>.
 
 <h2>Contact</h2>
 <ul>
-#<li> Address: Room 401, Science Building, Tsinghua University, Beijing 100084, China
+<li> Address: Room 401, Science Building, Tsinghua University, Beijing 100084, China
 <li> E-mail: jinyuanliu1206 AT gmail.com
 </ul>
 
 
-#<h2>Research Interest</h2>
+<h2>Research Interest</h2>
 
-#<ul>
-#<li>Trustworthy Machine Learning</li>
-#<li>Secure Multi-party Computation</li>
-#<li>Lightweight Cipher Design</li>
-#</ul>
+<ul>
+<li>Trustworthy Machine Learning</li>
+<li>Secure Multi-party Computation</li>
+<li>Lightweight Cipher Design</li>
+</ul>
 
 <h2>Education</h2>
 
