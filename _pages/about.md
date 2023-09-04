@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am am Fourth year undergraduate student at [School of Cyber Science and Technology, ShanDong University.](http://cst.qd.sdu.edu.cn
+I am Fourth year undergraduate student at [School of Cyber Science and Technology, ShanDong University.](http://cst.qd.sdu.edu.cn
 )
 
 
