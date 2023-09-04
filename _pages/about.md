@@ -11,6 +11,8 @@ redirect_from:
 I am Fourth year undergraduate student at [School of Cyber Science and Technology, ShanDong University.](http://cst.qd.sdu.edu.cn
 )
 
+## Contact
+E-mail: jinyuanliu1206 AT gmail.com
 
 ## Research Interest
 - Trustworthy Machine Learning
