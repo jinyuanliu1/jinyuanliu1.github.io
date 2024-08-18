@@ -13,3 +13,8 @@ This paper is about the number 1. The number 2 is left for future work.
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
 Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+
+- **[Have You Merged My Model? On The Robustness of Large Language Model IP Protection Methods Against Model Merging](https://arxiv.org/abs/XXXX.XXXXX)**  
+  **Authors**: Tianshuo Cong, Delong Ran, Zesen Liu, Xinlei He, Jinyuan Liu, Yichen Gong, Qi Li, Anyu Wang, Xiaoyun Wang  
+  Published in *The 1th ACM Workshop On Large AI Systems And Models With Privacy And Safety Analysis, co-located with CCS (CCS-LAMPS'24)*, Salt Lake City, USA.  
+  [arXiv](https://arxiv.org/abs/XXXX.XXXXX) | [Code](https://github.com/username/project)
