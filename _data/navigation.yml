@@ -3,8 +3,7 @@ main:
 
   - title: "Publications"
     url: /pubweb/
-
-    # url: /publications/
+    url: /publications/
     
   - title: "CV"
     url: http://jinyuanliu1.github.io/files/ljycv.pdf
