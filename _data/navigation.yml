@@ -2,7 +2,7 @@
 main: 
 
   - title: "Publications"
-    url: /pubweb/
+    # url: /pubweb/
     url: /publications/
     
   - title: "CV"
