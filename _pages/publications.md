@@ -8,12 +8,3 @@ author_profile: true
   **Authors**: Tianshuo Cong, Delong Ran, Zesen Liu, Xinlei He, Jinyuan Liu, Yichen Gong, Qi Li, Anyu Wang, Xiaoyun Wang  
   Published in *The 1th ACM Workshop On Large AI Systems And Models With Privacy And Safety Analysis, co-located with CCS (CCS-LAMPS'24)*, Salt Lake City, USA.  
   [arXiv](https://arxiv.org/abs/XXXX.XXXXX) | [Code](https://github.com/username/project)
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
