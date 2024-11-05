@@ -2,11 +2,11 @@
 main: 
 
   - title: "Publications"
-    url: /pubweb/
+    url: http://jinyuanliu1.github.io/pubweb/
     # url: /publications/2015-10-01-paper-title-number-3.md
     
   - title: "CV"
-    url: http://jinyuanliu1.github.io/files/JinyuanLiu_s_Resume.pdf
+    url: https://jinyuanliu1.github.io/files/JinyuanLiu_s_Resume.pdf
     
   #- title: "Misc."
   #  url: /misc/
