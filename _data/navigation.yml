@@ -2,7 +2,7 @@
 main: 
 
   - title: "Publications"
-    url: http://jinyuanliu1.github.io/pubweb/
+    url: /publications/
     # url: /publications/2015-10-01-paper-title-number-3.md
     
   - title: "CV"
