@@ -2,8 +2,8 @@
 main: 
 
   - title: "Publications"
-    # url: /pubweb/
-    url: /publications/2015-10-01-paper-title-number-3.md
+    url: /pubweb/
+    # url: /publications/2015-10-01-paper-title-number-3.md
     
   - title: "CV"
     url: http://jinyuanliu1.github.io/files/JinyuanLiu_s_Resume.pdf
