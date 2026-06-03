@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year PhD student at <a href="https://www.ias.tsinghua.edu.cn/">the Institute for Advanced Study at Tsinghua University, under the supervision of Academician Xiaoyun Wang. My research focuses on AI security, with specific interests in jailbreak attacks and watermarking for diffusion models. In my free time, I enjoy fitness and playing basketball, and I am always open to connecting with others who share similar interests. To learn more about me, click CV to know more.
+I am currently a second-year PhD student at <a href="https://www.ias.tsinghua.edu.cn/"> the Institute for Advanced Study at Tsinghua University, under the supervision of Academician Xiaoyun Wang. My research focuses on AI security, with specific interests in jailbreak attacks and watermarking for diffusion models. In my free time, I enjoy fitness and playing basketball, and I am always open to connecting with others who share similar interests. To learn more about me, click CV to know more.
 
 ## Contact
 - E-mail: jinyuanliu1206 AT gmail.com
