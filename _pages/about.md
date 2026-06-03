@@ -12,13 +12,11 @@ I am currently a second-year PhD student at the Institute for Advanced Study at 
 
 ## Contact
 - E-mail: jinyuanliu1206 AT gmail.com
-- Wechat: 13176580007
-- QQ: 1337729783
 
 ## Research Interest
 - Trustworthy Machine Learning
-- Post-quantum cryptography
-- Heterogeneous Memory Management
+- Semantic Watermark
+- Diffusion model
 
 ## Education
 
