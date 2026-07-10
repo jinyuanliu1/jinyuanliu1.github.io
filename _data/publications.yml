@@ -9,9 +9,9 @@
     - label: "Code"
       url: "https://github.com/CryptoAILab/GhostVAE"
 
-- title: "Cryptanalysis of LDPC-based Pseudorandom Error-Correcting Codes"
-  venue: "Preprint"
-  authors: "Tianrui Wang, Anyu Wang<sup>†</sup>, Tianshuo Cong<sup>†</sup>, Delong Ran, <strong>Jinyuan Liu</strong>, and Xiaoyun Wang"
+- title: "Cryptanalysis of LDPC-Based Pseudorandom Error-Correcting Codes"
+  venue: "USENIX Security 2026"
+  authors: "Tianrui Wang, Anyu Wang, Tianshuo Cong, Delong Ran, <strong>Jinyuan Liu</strong>, Xiaoyun Wang"
 
 - title: "Rethinking the Stealthiness of Cryptographically Undetectable Backdoors in Practical RFF Learning"
   venue: "KDD 2026 · Research Track"
