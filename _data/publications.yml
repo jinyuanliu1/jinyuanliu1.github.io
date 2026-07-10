@@ -1,0 +1,55 @@
+# Add new publications at the top. HTML is allowed in authors and description.
+- title: "Robust Watermarks Meet Backdoored Models: Evading Diffusion Semantic Watermarks via Stealthy Backdoor"
+  venue: "USENIX Security 2026"
+  authors: "<strong>Jinyuan Liu</strong>, Tianshuo Cong, Pei Li, Tianrui Wang, Xinlei He, Anyu Wang, and Xiaoyun Wang"
+  description: "Proceedings of the 35th USENIX Security Symposium (USENIX Security 26), 2026."
+  links:
+    - label: "USENIX"
+      url: "https://www.usenix.org/conference/usenixsecurity26/presentation/liu-jinyuan"
+    - label: "Code"
+      url: "https://github.com/CryptoAILab/GhostVAE"
+
+- title: "Cryptanalysis of LDPC-based Pseudorandom Error-Correcting Codes"
+  venue: "Preprint"
+  authors: "Tianrui Wang, Anyu Wang<sup>†</sup>, Tianshuo Cong<sup>†</sup>, Delong Ran, <strong>Jinyuan Liu</strong>, and Xiaoyun Wang"
+
+- title: "Rethinking the Stealthiness of Cryptographically Undetectable Backdoors in Practical RFF Learning"
+  venue: "KDD 2026 · Research Track"
+  authors: "Tianshuo Cong, Pei Li, Haojie Wu, <strong>Jinyuan Liu</strong>, Tairong Huang, Guoyan Zhang, and Anyu Wang"
+  description: "The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining, August 9–13, 2026, Jeju, Korea."
+
+- title: "JailbreakEval: An Integrated Toolkit for Evaluating Jailbreak Attempts Against Large Language Models"
+  venue: "NDSS 2025 Poster"
+  authors: "Delong Ran, <strong>Jinyuan Liu</strong>, Yichen Gong, Jingyi Zheng, Xinlei He, Tianshuo Cong, Anyu Wang"
+  description: "Presented as an NDSS Symposium 2025 poster and awarded <strong>Best Technical Poster</strong>."
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2406.09321"
+    - label: "Award"
+      url: "https://www.ndss-symposium.org/ndss2025/"
+    - label: "PyPI"
+      url: "https://pypi.org/project/jailbreakeval/"
+
+- title: "FigStep: Jailbreaking Large Vision-Language Models via Typographic Visual Prompts"
+  venue: "AAAI 2025"
+  authors: "Yichen Gong, Delong Ran, <strong>Jinyuan Liu</strong>, Conglei Wang, Tianshuo Cong, Anyu Wang, Sisi Duan, Xiaoyun Wang"
+  description: "Proceedings of the AAAI Conference on Artificial Intelligence, 39(22): 23951–23959, 2025."
+  links:
+    - label: "DOI"
+      url: "https://doi.org/10.1609/aaai.v39i22.34568"
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2311.05608"
+    - label: "Code"
+      url: "https://github.com/ThuCCSLab/FigStep"
+
+- title: "Have You Merged My Model? On the Robustness of Large Language Model IP Protection Methods Against Model Merging"
+  venue: "CCS-LAMPS 2024"
+  authors: "Tianshuo Cong, Delong Ran, Zesen Liu, Xinlei He, <strong>Jinyuan Liu</strong>, Yichen Gong, Qi Li, Anyu Wang, Xiaoyun Wang"
+  description: "Proceedings of the 1st ACM Workshop on Large AI Systems and Models with Privacy and Safety Analysis, 2024. <strong>Best Paper Award</strong>."
+  links:
+    - label: "DOI"
+      url: "https://doi.org/10.1145/3689217.3690614"
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2404.05188"
+    - label: "Code"
+      url: "https://github.com/ThuCCSLab/MergeGuard"

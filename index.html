@@ -1,0 +1,98 @@
+---
+layout: null
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ site.description }}">
+  <title>{{ site.title }}</title>
+  <link rel="icon" href="{{ '/images/thu.ico' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+</head>
+<body>
+  <header class="topbar">
+    <nav class="nav wrap" aria-label="Main navigation">
+      <a class="brand" href="#top">Jinyuan Liu</a>
+      <div class="nav-links">
+        <a href="#about">About</a>
+        <a href="#publications">Publications</a>
+        <a href="#education">Education</a>
+        <a href="{{ '/files/JinyuanLiu_s_Resume.pdf' | relative_url }}">CV</a>
+      </div>
+    </nav>
+  </header>
+
+  <main id="top" class="wrap">
+    <section class="hero" id="about">
+      <div class="portrait-wrap">
+        <img class="portrait" src="{{ '/images/jinyuan.png' | relative_url }}" alt="Jinyuan Liu">
+      </div>
+      <div class="intro">
+        <p class="eyebrow">Ph.D. Student · Tsinghua University</p>
+        <h1>Jinyuan Liu <span>刘金源</span></h1>
+        <p class="lead">I am a second-year Ph.D. student at the Institute for Advanced Study, Tsinghua University, advised by Academician Xiaoyun Wang. My research focuses on AI security, especially jailbreak attacks and semantic watermarking for diffusion models.</p>
+        <p>In my free time, I enjoy fitness and basketball. I am always happy to connect with people who share similar interests.</p>
+        <div class="contact-links">
+          <a href="mailto:jinyuanliu1206@gmail.com">Email</a>
+          <a href="https://github.com/jinyuanliu1">GitHub</a>
+          <a href="{{ '/files/JinyuanLiu_s_Resume.pdf' | relative_url }}">Curriculum Vitae</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="interests-title">
+      <p class="section-label">Research</p>
+      <h2 id="interests-title">Research Interests</h2>
+      <div class="tags">
+        <span>Trustworthy Machine Learning</span>
+        <span>AI Security</span>
+        <span>Semantic Watermarking</span>
+        <span>Diffusion Models</span>
+      </div>
+    </section>
+
+    <section class="section" id="publications" aria-labelledby="publications-title">
+      <p class="section-label">Selected work</p>
+      <h2 id="publications-title">Publications</h2>
+      <div class="publication-list">
+        {% for publication in site.data.publications %}
+        <article class="publication">
+          <p class="venue">{{ publication.venue }}</p>
+          <h3>{{ publication.title }}</h3>
+          <p class="authors">{{ publication.authors }}</p>
+          {% if publication.description %}<p class="description">{{ publication.description }}</p>{% endif %}
+          {% if publication.links %}
+          <div class="paper-links">
+            {% for link in publication.links %}
+            <a href="{{ link.url }}">{{ link.label }}</a>
+            {% endfor %}
+          </div>
+          {% endif %}
+        </article>
+        {% endfor %}
+      </div>
+    </section>
+
+    <section class="section" id="education" aria-labelledby="education-title">
+      <p class="section-label">Background</p>
+      <h2 id="education-title">Education</h2>
+      <div class="timeline">
+        <article>
+          <p class="date">2024 — Present</p>
+          <div><h3>Tsinghua University</h3><p>Ph.D. in Cyberspace Security · Beijing, China</p></div>
+        </article>
+        <article>
+          <p class="date">2020 — 2024</p>
+          <div><h3>Shandong University</h3><p>B.Eng. in Information Security · Qingdao, China</p></div>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="wrap">
+    <p>© {{ 'now' | date: '%Y' }} Jinyuan Liu · Last updated July 2026</p>
+  </footer>
+</body>
+</html>
