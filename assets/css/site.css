@@ -31,8 +31,11 @@ h2 { margin:0 0 30px; font:700 clamp(1.9rem,4vw,2.55rem)/1.15 Georgia,"Times New
 .publication p { margin:4px 0; }
 .authors { color:#394654; }
 .description { color:var(--muted); font-size:.94rem; }
+.description strong { display:inline-block; margin-left:3px; padding:1px 7px; border-radius:4px; background:#fff0c2; color:#805b00; font-weight:750; }
 .paper-links { margin-top:12px; }
 .paper-links a { padding:3px 11px; font-size:.8rem; }
+.paper-links a.award-link { border-color:#d79b24; background:#fff0c2; color:#805b00; font-weight:800; box-shadow:0 2px 7px rgba(215,155,36,.2); }
+.paper-links a.award-link:hover { background:#ffe4a0; text-decoration:none; }
 .timeline article { display:grid; grid-template-columns:150px 1fr; gap:28px; padding:20px 0; border-top:1px solid var(--line); }
 .timeline .date { margin:3px 0 0; color:var(--accent); font-size:.85rem; font-weight:700; }
 .timeline h3,.timeline p { margin:0; }
@@ -50,4 +53,3 @@ footer { padding:28px 0 50px; border-top:1px solid var(--line); color:var(--mute
   .publication .venue { grid-row:auto; }
 }
 @media (prefers-reduced-motion:reduce) { html { scroll-behavior:auto; } }
-

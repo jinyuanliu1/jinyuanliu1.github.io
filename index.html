@@ -66,7 +66,7 @@ layout: null
           {% if publication.links %}
           <div class="paper-links">
             {% for link in publication.links %}
-            <a href="{{ link.url }}">{{ link.label }}</a>
+            <a class="{% if link.label contains 'Award' %}award-link{% endif %}" href="{{ link.url }}">{{ link.label }}</a>
             {% endfor %}
           </div>
           {% endif %}
