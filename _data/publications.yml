@@ -4,14 +4,17 @@
   authors: "<strong>Jinyuan Liu</strong>, Tianshuo Cong, Pei Li, Tianrui Wang, Xinlei He, Anyu Wang, and Xiaoyun Wang"
   description: "Proceedings of the 35th USENIX Security Symposium (USENIX Security 26), 2026."
   links:
-    - label: "USENIX"
-      url: "https://www.usenix.org/conference/usenixsecurity26/presentation/liu-jinyuan"
+    - label: "Paper"
+      url: "https://arxiv.org/abs/2608.00543"
     - label: "Code"
       url: "https://github.com/CryptoAILab/GhostVAE"
 
 - title: "Cryptanalysis of LDPC-Based Pseudorandom Error-Correcting Codes"
   venue: "USENIX Security 2026"
   authors: "Tianrui Wang, Anyu Wang, Tianshuo Cong, Delong Ran, <strong>Jinyuan Liu</strong>, Xiaoyun Wang"
+  links:
+  - label: "Paper"
+    url: "https://eprint.iacr.org/2025/2283"
 
 - title: "Rethinking the Stealthiness of Cryptographically Undetectable Backdoors in Practical RFF Learning"
   venue: "KDD 2026 · Research Track"
