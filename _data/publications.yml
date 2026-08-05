@@ -24,8 +24,7 @@
 - title: "JailbreakEval: An Integrated Toolkit for Evaluating Jailbreak Attempts Against Large Language Models"
   venue: "NDSS 2025 Poster"
   authors: "Delong Ran, <strong>Jinyuan Liu</strong>, Yichen Gong, Jingyi Zheng, Xinlei He, Tianshuo Cong, Anyu Wang"
-  description: "Presented as an NDSS Symposium 2025 poster and awarded 
-  Award: <strong>Best Technical Poster</strong>."
+  description: "Presented as an NDSS Symposium 2025 poster and awarded <strong>Best Technical Poster</strong>."
   links:
     - label: "arXiv"
       url: "https://arxiv.org/abs/2406.09321"
@@ -49,8 +48,7 @@
 - title: "Have You Merged My Model? On the Robustness of Large Language Model IP Protection Methods Against Model Merging"
   venue: "CCS-LAMPS 2024"
   authors: "Tianshuo Cong, Delong Ran, Zesen Liu, Xinlei He, <strong>Jinyuan Liu</strong>, Yichen Gong, Qi Li, Anyu Wang, Xiaoyun Wang"
-  description: "Proceedings of the 1st ACM Workshop on Large AI Systems and Models with Privacy and Safety Analysis, 2024. 
-  Award: <strong>Best Paper Award</strong>."
+  description: "Proceedings of the 1st ACM Workshop on Large AI Systems and Models with Privacy and Safety Analysis, 2024. <strong>Best Paper Award</strong>."
   links:
     - label: "DOI"
       url: "https://doi.org/10.1145/3689217.3690614"
