@@ -13,8 +13,8 @@
   venue: "USENIX Security 2026"
   authors: "Tianrui Wang, Anyu Wang, Tianshuo Cong, Delong Ran, <strong>Jinyuan Liu</strong>, Xiaoyun Wang"
   links:
-  - label: "Paper"
-    url: "https://eprint.iacr.org/2025/2283"
+    - label: "Paper"
+      url: "https://eprint.iacr.org/2025/2283"
 
 - title: "Rethinking the Stealthiness of Cryptographically Undetectable Backdoors in Practical RFF Learning"
   venue: "KDD 2026 · Research Track"
